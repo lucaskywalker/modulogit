@@ -1,0 +1,49 @@
+[33mcommit 0db45181c8d14c987584eee5a38ea121c4d842c2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lucas Fonseca <lucas-fonseca12@hotmail.com>
+Date:   Wed Apr 1 17:34:12 2020 -0300
+
+    Revert "Adicionando gitignore no projeto"
+    
+    This reverts commit f9c9a78be1b593be0be18ae4bbc31582d9cbedc1.
+
+[33mcommit 8452e4b5a4bb438fe7c8fb785dc805fd545ce0c0[m
+Author: Lucas Fonseca <lucas-fonseca12@hotmail.com>
+Date:   Wed Apr 1 17:30:50 2020 -0300
+
+    Nova funcionalidade X
+
+[33mcommit f9c9a78be1b593be0be18ae4bbc31582d9cbedc1[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Lucas Fonseca <lucas-fonseca12@hotmail.com>
+Date:   Wed Apr 1 17:24:36 2020 -0300
+
+    Adicionando gitignore no projeto
+
+[33mcommit 01b0ea3b5c0221281a02ca8afbab4a2a7d3f6ec3[m
+Author: Lucas Fonseca <lucas-fonseca12@hotmail.com>
+Date:   Wed Apr 1 17:10:41 2020 -0300
+
+    Adicionando JS
+
+[33mcommit c27ad33389aa016e8149a8181181b49c4c58ee25[m
+Author: Lucas Fonseca <lucas-fonseca12@hotmail.com>
+Date:   Wed Apr 1 17:07:08 2020 -0300
+
+    Inserindo o index
+
+[33mcommit 19b326c09354707f30a97c50e1eef464e7b12959[m
+Author: Lucas Fonseca <lucas-fonseca12@hotmail.com>
+Date:   Wed Apr 1 16:39:33 2020 -0300
+
+    Atualizando o readme mais uma vez
+
+[33mcommit 8ae43ad98b96b60432e32ff8956dd60060790361[m
+Author: Lucas Fonseca <lucas-fonseca12@hotmail.com>
+Date:   Tue Mar 31 19:20:29 2020 -0300
+
+    Alteração no css
+
+[33mcommit 536b2d8717e1a5538aa342ee0dbd3fa9c63f00d9[m
+Author: Lucas Fonseca <lucas-fonseca12@hotmail.com>
+Date:   Tue Mar 31 18:58:51 2020 -0300
+
+    Primeiro Commit
